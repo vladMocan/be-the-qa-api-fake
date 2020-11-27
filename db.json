@@ -1,16 +1,38 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
+      "id": 0,
       "title": "First post!",
-      "content" : "My first content!"
+      "content": "My first content!"
     }
   ],
-  "comments" : [
+  "comments": [
     {
       "id": 0,
       "content": "Wow such content!",
       "username": "zero_cool"
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "username": "User test 1",
+      "email": "test1@email.com"
+    },
+    {
+      "id": 1,
+      "username": "User test 2",
+      "email": "test2@email.com"
+    },
+    {
+      "id": 2,
+      "username": "User test 3",
+      "email": "test3@email.com"
+    },
+    {
+      "id": 3,
+      "username": "User test 4",
+      "email": "test4@email.com"
     }
   ]
 }
