@@ -14,20 +14,6 @@
     }
   ],
   "users": [
-    {
-      "id": 0,
-      "username": "User test 1",
-      "email": "test1@email.com"
-    },
-    {
-      "id": 2,
-      "username": "User test 4",
-      "email": "test3@email.com"
-    },
-    {
-      "id": 3,
-      "username": "User test 4",
-      "email": "test4@email.com"
-    }
+  
   ]
 }
